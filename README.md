@@ -1,7 +1,7 @@
 
 # KLAY ORDERS REPORT
 
-This report encompasses a comprehensive analysis of the KLAY orders, focusing on the orders' segmentation, regional distribution, and customer engagement.
+**This report encompasses a comprehensive analysis of the KLAY orders, focusing on the orders' segmentation, regional distribution, and customer engagement.**
 
 **Overview**
 - **Total Number of Orders**: 9,994
