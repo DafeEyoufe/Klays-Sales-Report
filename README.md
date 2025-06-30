@@ -3,6 +3,10 @@
 
 **This report encompasses a comprehensive analysis of the KLAY orders, focusing on the orders' segmentation, regional distribution, and customer engagement.**
 
+The stack used to achieve this analysis includes Excel for data cleaning and Looker Studio for the dashboard creation.
+
+https://lookerstudio.google.com/reporting/1d7b45a9-aad6-46a3-a300-3446e7b825b5
+
 **Overview**
 - **Total Number of Orders**: 9,994
 - **Total Number of Customers**: 793
